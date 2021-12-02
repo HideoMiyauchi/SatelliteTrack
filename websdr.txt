@@ -1,0 +1,1347 @@
+-----------------------------------------------------------------------
+WebSDR at the University of Twente, Enschede, NL
+http://websdr.ewi.utwente.nl:8901/
+JO32KF
+0.000 - 29.160 MHz
+-----------------------------------------------------------------------
+BATC & AMSAT-UK QO-100 (Es'Hail-2) Geostationary Satellite WebSDR
+http://eshail.batc.org.uk:8901/
+IO70JB
+10489.500 - 10490.000 MHz
+-----------------------------------------------------------------------
+IS0GRB QO-100 (Es'Hail-2) Geostationary SAT 26Est (10489 Ham NB Transponder)
+http://websdr.is0grb.it:8901/
+JM49OJ
+10489.200 - 10490.200 MHz
+-----------------------------------------------------------------------
+Home of K3FEF and W3TKP in Milford, Pennsylvania, NE USA. 160/80/40/30/20/17M and more!
+http://websdr.k3fef.com:8901/
+FN21mh
+0.000 - 2.048 MHz
+3.276 - 5.324 MHz
+5.326 - 7.374 MHz
+8.876 - 10.924 MHz
+10.976 - 13.024 MHz
+13.476 - 15.524 MHz
+16.576 - 18.624 MHz
+-----------------------------------------------------------------------
+WEBSDR - Pardinho, SP - Brasil
+http://appr.org.br:8901/
+GG56TV
+0.000 - 2.048 MHz
+1.804 - 1.996 MHz
+3.494 - 4.006 MHz
+6.894 - 7.406 MHz
+13.994 - 14.506 MHz
+10489.200 - 10490.300 MHz
+143.963 - 146.011 MHz
+145.976 - 148.024 MHz
+-----------------------------------------------------------------------
+WebSDR in C3 Ordino - ANDORRA PRINCIPALITY - ARDAM Ham Radio Association - RX 4 pcs FuncubeDonggle Pro+
+http://sdr.radioandorra.org/
+JN02SN
+7.008 - 7.200 MHz
+5.262 - 5.454 MHz
+3.610 - 3.802 MHz
+14.043 - 14.235 MHz
+-----------------------------------------------------------------------
+KFS WebSDR HF receiver system on the Pacific coast south of San Francisco
+http://69.27.184.62:8901/
+CM87tj
+1.804 - 1.996 MHz
+3.450 - 3.642 MHz
+3.620 - 3.812 MHz
+3.810 - 4.002 MHz
+6.943 - 7.135 MHz
+7.125 - 7.317 MHz
+13.990 - 14.182 MHz
+14.165 - 14.357 MHz
+-----------------------------------------------------------------------
+Northern Utah WebSDR, Corinne, Utah, U.S.A. - WebSDR #1 (Yellow) - Landing Page
+http://websdr1.sdrutah.org:8901/
+DN31uo
+0.125 - 0.317 MHz
+0.318 - 0.510 MHz
+1.800 - 1.992 MHz
+0.516 - 2.564 MHz
+3.366 - 4.134 MHz
+4.701 - 6.749 MHz
+6.741 - 7.509 MHz
+-----------------------------------------------------------------------
+WebSDR Wismar (Germany) by DO7AX
+http://dlwis-websdr.ham-radio-op.net:8901/
+JO53RV
+3.188 - 4.212 MHz
+6.578 - 7.602 MHz
+9.603 - 10.627 MHz
+13.688 - 14.712 MHz
+144.788 - 145.812 MHz
+-----------------------------------------------------------------------
+WebSDR Maasbree Netherlands: rural low noise level and full 80m/60m/40m/30m/20m band coverage, CW segments included
+http://websdrmaasbree.hamshack.info:8901/
+JO31ai58
+3.394 - 3.906 MHz
+5.279 - 5.471 MHz
+6.829 - 7.341 MHz
+10.054 - 10.246 MHz
+13.909 - 14.421 MHz
+-----------------------------------------------------------------------
+160m, 60m, 80m, 40m and 17m SDR's from Nantwich in Cheshire
+http://hackgreensdr.org:8901/
+IO83RA
+1.804 - 1.996 MHz
+3.600 - 3.792 MHz
+5.237 - 5.428 MHz
+7.008 - 7.200 MHz
+14.130 - 14.322 MHz
+18.019 - 18.211 MHz
+-----------------------------------------------------------------------
+RW3PS websdr in Tula, Russia
+http://tulasdr.fvds.ru:8901/
+KO84ND
+1.353 - 2.377 MHz
+2.626 - 4.674 MHz
+6.972 - 7.228 MHz
+-----------------------------------------------------------------------
+Northern Utah WebSDR, Corinne, Utah, U.S.A. - WebSDR #2 (Green) - Landing Page
+http://websdr2.sdrutah.org:8902/
+DN31vo
+8.676 - 10.212 MHz
+13.766 - 14.534 MHz
+18.022 - 18.214 MHz
+20.816 - 21.584 MHz
+24.844 - 25.036 MHz
+27.816 - 28.584 MHz
+28.232 - 29.768 MHz
+49.988 - 51.012 MHz
+-----------------------------------------------------------------------
+North Texas RTL-SDR operated by W5CQU
+http://w5cqu.homeip.net:8100/
+EM13kb
+3.188 - 4.212 MHz
+-----------------------------------------------------------------------
+ROMA UNATTAINABLE MEDITERRANEAN TOP RX SDR 10/11 METERS ALSO HF Fara Sabina ITALY
+http://roma4.ddns.net/
+JN62IF
+26.531 - 28.579 MHz
+5.982 - 7.518 MHz
+2.642 - 4.178 MHz
+143.976 - 146.024 MHz
+432.976 - 435.024 MHz
+13.132 - 14.668 MHz
+-----------------------------------------------------------------------
+Northern Utah WebSDR, Corinne, Utah, U.S.A. - WebSDR #4 (Magenta) - Landing Page
+http://websdr4.sdrutah.org:8904/
+DN31so
+6.741 - 7.509 MHz
+10.077 - 10.173 MHz
+13.766 - 14.534 MHz
+18.022 - 18.214 MHz
+20.816 - 21.584 MHz
+24.844 - 25.036 MHz
+27.816 - 28.584 MHz
+28.232 - 29.768 MHz
+-----------------------------------------------------------------------
+SDR Station by SV3YY in RIO GREECE.
+http://sv3yy1.no-ip.org:8901/
+KM08HC
+14.104 - 14.296 MHz
+7.014 - 7.206 MHz
+3.624 - 3.816 MHz
+1.598 - 1.982 MHz
+-----------------------------------------------------------------------
+NA5B WebSDR in Washington DC area USA. VLF-MF-HF: MW-SW-CB Bands, 160-80-40-30-25-20-15-10m
+http://NA5B.com:8901/
+FM18JS
+0.000 - 2.048 MHz
+3.200 - 5.248 MHz
+5.324 - 7.372 MHz
+8.825 - 10.873 MHz
+11.599 - 13.647 MHz
+13.655 - 15.703 MHz
+20.888 - 21.912 MHz
+26.961 - 29.009 MHz
+-----------------------------------------------------------------------
+WebSDR on R2AJI in Rossosh VRN, Russia
+http://84.201.157.25:26057/
+KO90SE
+0.132 - 1.668 MHz
+1.732 - 3.268 MHz
+3.476 - 5.524 MHz
+5.776 - 7.824 MHz
+13.438 - 14.462 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+WebSDR "ES4O" of Tallinn Polytechnic School Radio Club located in Estonia. Raspberry Pi 4 with Red Pitaya SDR.
+http://es4o.ee:8901/
+KO39DC
+1.795 - 1.987 MHz
+3.495 - 3.687 MHz
+3.687 - 3.879 MHz
+5.245 - 5.437 MHz
+6.995 - 7.187 MHz
+10.095 - 10.287 MHz
+13.995 - 14.187 MHz
+14.187 - 14.379 MHz
+-----------------------------------------------------------------------
+WebSDR located in Novokuznetsk 10m, 15m, 40m, 80m, 160m band
+http://sdr.42dx.ru:85/
+NO33QT55
+27.988 - 29.012 MHz
+20.936 - 21.704 MHz
+6.966 - 7.734 MHz
+3.061 - 3.829 MHz
+1.256 - 2.024 MHz
+-----------------------------------------------------------------------
+EA1URA WebSDR in Asturias, Spain | URE Asturias
+http://websdr.ea1ura.com/
+IN73dk
+143.976 - 146.024 MHz
+27.036 - 29.084 MHz
+20.738 - 21.762 MHz
+13.688 - 14.712 MHz
+6.588 - 7.612 MHz
+3.138 - 4.162 MHz
+1.388 - 2.412 MHz
+-----------------------------------------------------------------------
+RIKU S WebSDR Server, Very popular. SUOSITTU SUOMALAINEN SDR! Paljon liikenetta! 27Mhz CB, 2M ja 80M. kuuntele tasta 3699 khz.
+http://websdr.fi:8080/
+KP01WJ
+1.805 - 3.853 MHz
+7.000 - 7.256 MHz
+14.000 - 15.024 MHz
+26.925 - 28.973 MHz
+69.574 - 71.622 MHz
+143.976 - 146.024 MHz
+434.138 - 435.162 MHz
+-----------------------------------------------------------------------
+Receptor SDR de Sao Paulo, SP - Brasil
+http://saopaulo.websdr.com.br:8901/
+GG66qm
+26.988 - 28.012 MHz
+143.976 - 146.024 MHz
+145.888 - 146.912 MHz
+-----------------------------------------------------------------------
+Lumpkin County School's WebSDR - Dahlonega, GA
+http://websdr.lumpkinschools.com/
+EM84an
+3.494 - 4.006 MHz
+6.126 - 8.174 MHz
+13.151 - 15.199 MHz
+26.961 - 29.009 MHz
+145.296 - 147.344 MHz
+442.576 - 444.624 MHz
+-----------------------------------------------------------------------
+UY2RA
+http://194.177.25.37/
+KO51IM
+1.038 - 2.062 MHz
+2.988 - 4.012 MHz
+6.588 - 7.612 MHz
+13.588 - 14.612 MHz
+20.588 - 21.612 MHz
+27.588 - 28.612 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+UA6EH WebSDR Server
+http://85.173.189.23:8901/
+LN03su98
+1.338 - 2.362 MHz
+2.838 - 3.862 MHz
+6.588 - 7.612 MHz
+13.608 - 14.632 MHz
+26.976 - 29.024 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+Websdr Cinovec - OK1KPU
+http://websdr.xn--pirti-zqa.eu/
+JO60VR
+1.811 - 2.003 MHz
+3.485 - 3.677 MHz
+3.669 - 3.861 MHz
+7.008 - 7.200 MHz
+-----------------------------------------------------------------------
+Heppen Belgium * VLF * MF * HF * VHF * UHF *
+http://heppen.be:8091/
+JO21OC
+-0.246 - 1.802 MHz
+1.800 - 2.056 MHz
+3.458 - 3.842 MHz
+6.972 - 7.228 MHz
+143.976 - 146.024 MHz
+437.476 - 439.524 MHz
+-----------------------------------------------------------------------
+G4FPH 160 / 80 / 60 / 40 metre WebSDR located in central England.
+http://www.160m.net/
+IO92AS
+1.810 - 2.002 MHz
+3.591 - 3.783 MHz
+14.104 - 14.296 MHz
+5.044 - 5.556 MHz
+-----------------------------------------------------------------------
+St Morillon / Villenave d'Ornon - Bordeaux (France) 80m / 40m / 11m / 144 Mhz / 433 Mhz / 446 Mhz
+http://stmorillon.websdr.lepacha.eu:8000/
+IN94RP
+3.408 - 3.792 MHz
+6.616 - 7.384 MHz
+26.476 - 28.524 MHz
+143.976 - 146.024 MHz
+431.996 - 434.044 MHz
+445.588 - 446.612 MHz
+-----------------------------------------------------------------------
+- LU5DNP - Saladillo City - Bs. As. R.Argentina
+http://lu5dnpwebsdr.sytes.net:8901/
+GF04CI
+3.554 - 3.746 MHz
+5.326 - 7.374 MHz
+13.576 - 15.624 MHz
+-----------------------------------------------------------------------
+WebSDR Cerro Branco, RS Brasil
+http://cerrobranco.ddns.net:8000/
+GG30MI
+3.088 - 4.112 MHz
+-----------------------------------------------------------------------
+Russian General pirate Band ÅgTroykaÅh. 2900...3200 kHz.
+http://tambov.gq:8902/
+LO02SS
+2.375 - 3.399 MHz
+-----------------------------------------------------------------------
+German's highest WebSDR "Grosser Arber" from 1456m OSL - CZE, AUT, GER
+http://arber-sdr.ddns.net/
+JN69NC
+26.548 - 28.596 MHz
+28.532 - 30.068 MHz
+143.976 - 146.024 MHz
+148.732 - 150.268 MHz
+-----------------------------------------------------------------------
+G0XBU WebSDR - SERVER 1, Nr Jodrell Bank, Cheshire, UK
+http://81.174.147.103:8901/
+IO83UF
+13.944 - 14.456 MHz
+26.776 - 28.824 MHz
+3.476 - 5.524 MHz
+69.976 - 72.024 MHz
+117.976 - 120.024 MHz
+-----------------------------------------------------------------------
+SV2AMK WEBSDR. QTH Makri Alexandroupolis North East Greece. SDRplay RSP-1A operating on 40m Band.
+http://makrisv2amk.ddns.me:58901/
+KN20UU
+14.104 - 14.296 MHz
+5.952 - 7.488 MHz
+5.272 - 5.528 MHz
+3.614 - 3.806 MHz
+3.334 - 3.526 MHz
+1.795 - 1.891 MHz
+143.976 - 146.024 MHz
+437.976 - 440.024 MHz
+-----------------------------------------------------------------------
+160m 80m 40m 20m and Weather in Central Florida USA Orlando, FL.
+http://sdr.n4but.com/
+EL98ho
+0.876 - 2.924 MHz
+2.726 - 4.774 MHz
+6.161 - 8.209 MHz
+13.084 - 15.132 MHz
+-----------------------------------------------------------------------
+SBSA SiljansbygdensSandareamatorer, SK4KO, Mora, Sweden
+http://websdr.sk4ko.com:8901/
+JP71GA
+1.393 - 2.417 MHz
+3.138 - 4.162 MHz
+6.588 - 7.612 MHz
+13.688 - 14.712 MHz
+20.713 - 21.737 MHz
+27.826 - 29.874 MHz
+-----------------------------------------------------------------------
+Receptor SDR de Itapecerica da Serra, SP - Brasil
+http://itapecerica.websdr.com.br:8901/
+GG66ng
+3.494 - 4.006 MHz
+6.894 - 7.406 MHz
+26.988 - 28.012 MHz
+-----------------------------------------------------------------------
+LU6FLZ WebSdr - Venado Tuerto - ff96ag -Sta Fe- Argentina - POCKET RXTX APP ANDROID SUPPORTED
+http://lu6flz.no-ip.org:7999/
+FF96AG
+6.488 - 7.512 MHz
+-----------------------------------------------------------------------
+YO3WL WebSDR
+http://websdr.yo3wl.ro:8901/
+KN34AH
+3.459 - 3.971 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+25 meter radio telescope near Dwingeloo, The Netherlands
+http://websdr.camras.nl:8901/
+JO32ET
+431.376 - 433.424 MHz
+1295.880 - 1297.920 MHz
+143.976 - 146.024 MHz
+143.022 - 143.118 MHz
+49.676 - 51.724 MHz
+-----------------------------------------------------------------------
+WEBSDR CB0MTL Germany Parthenstein JO61HF
+http://cb0mtl.selfhost.eu/
+JO61HF
+3.138 - 4.162 MHz
+5.857 - 7.393 MHz
+13.688 - 14.712 MHz
+26.467 - 28.003 MHz
+27.976 - 30.024 MHz
+49.738 - 50.762 MHz
+143.976 - 146.024 MHz
+437.676 - 439.724 MHz
+-----------------------------------------------------------------------
+RTL-SDR & ODROID-C2 in Dnepr, Ukraine
+http://sdr.cloudns.pro:8901/
+KN78MM
+145.334 - 145.846 MHz
+144.117 - 144.373 MHz
+445.992 - 446.248 MHz
+26.934 - 27.446 MHz
+3.547 - 3.803 MHz
+-----------------------------------------------------------------------
+Home of WA1STH in Kensington, NH USA.
+http://wa1sthwebsdr.com:8901/
+FN42mw 
+0.000 - 2.048 MHz
+3.476 - 5.524 MHz
+5.276 - 7.324 MHz
+-----------------------------------------------------------------------
+WebSDR Server in Breaza (PH), Romania
+http://websdr.yo3ggx.ro:8765/
+KN25te
+0.000 - 2.048 MHz
+3.444 - 3.956 MHz
+7.000 - 7.256 MHz
+13.994 - 14.506 MHz
+20.994 - 21.506 MHz
+26.966 - 29.014 MHz
+143.976 - 146.024 MHz
+437.120 - 440.000 MHz
+-----------------------------------------------------------------------
+WebSDR Moscow Russia. Main site: http://websdr.space [ex. websdr.tech]
+http://websdr.space:8880/
+KO85UP
+126.956 - 129.004 MHz
+130.156 - 132.204 MHz
+143.956 - 146.004 MHz
+5.756 - 7.804 MHz
+-----------------------------------------------------------------------
+Websdr Receiver operated by SV1RVL in Athens Greece
+http://sv1rvl.ddns.net:8901/
+KM17VW
+144.026 - 146.074 MHz
+436.976 - 439.024 MHz
+433.976 - 436.024 MHz
+13.588 - 14.612 MHz
+6.588 - 7.612 MHz
+3.188 - 4.212 MHz
+0.011 - 2.059 MHz
+-----------------------------------------------------------------------
+WebSDR of DK0TE - Friedrichshafen - Germany - Lake Constance
+http://dk0te.dhbw-ravensburg.de:8901/
+JN47RP
+1.795 - 1.987 MHz
+3.495 - 3.687 MHz
+3.623 - 3.815 MHz
+6.995 - 7.187 MHz
+10.095 - 10.287 MHz
+13.995 - 14.187 MHz
+20.995 - 21.187 MHz
+27.995 - 28.187 MHz
+-----------------------------------------------------------------------
+WEBSDR CB0KRI Germany Kriebstein
+http://cb0kri.selfhost.eu/
+JO61MA
+26.511 - 28.559 MHz
+-----------------------------------------------------------------------
+WebSDR, Russia, Cherepovets City.
+http://websdr.ru/
+KO89XC
+1.776 - 3.824 MHz
+3.824 - 5.872 MHz
+5.872 - 7.920 MHz
+13.616 - 14.384 MHz
+9.326 - 11.374 MHz
+26.900 - 28.948 MHz
+341.576 - 343.624 MHz
+-----------------------------------------------------------------------
+Russia, the Lipetsk city, WebSDR 2m, 40m, 80m, QO-100
+http://stream.sdr48.ru/
+KO92SO
+143.976 - 146.024 MHz
+3.408 - 3.792 MHz
+6.908 - 7.292 MHz
+10488.700 - 10490.700 MHz
+-----------------------------------------------------------------------
+Swiss Remote DX-Station at 1'660m operated by HB9RYZ & HB9CQK
+http://rigi.dyndns-remote.com:8091/
+JN47GA
+27.826 - 29.874 MHz
+21.008 - 21.392 MHz
+13.716 - 14.484 MHz
+7.004 - 7.196 MHz
+3.458 - 3.842 MHz
+1.794 - 1.986 MHz
+-----------------------------------------------------------------------
+10m, 4m, 2m and 70cm SDR from Nantwich in Cheshire.
+http://hackgreensdr.org:8902/
+IO83RA
+432.476 - 434.524 MHz
+143.976 - 146.024 MHz
+69.738 - 70.762 MHz
+28.232 - 29.768 MHz
+-----------------------------------------------------------------------
+AM WebSDR located in Grimsby England
+http://grimsbysdr.ddns.net:8073/
+IO93XN
+0.065 - 2.113 MHz
+0.020 - 2.068 MHz
+0.011 - 2.059 MHz
+-----------------------------------------------------------------------
+Maui WebSDR, Kahakuloa, Hawaii
+http://mauisdr.wsprdaemon.org:8901/
+BL10rx
+5.304 - 5.432 MHz
+6.869 - 7.381 MHz
+13.944 - 14.456 MHz
+-----------------------------------------------------------------------
+LZ2KAC WEBSDR RTL2832U/R820T-Receiver
+http://websdr.lz2kac.org:8901/
+KN22PV
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+75m AM Window WebSDR by N1PS
+http://sebagolakesdr.us:8901/
+FN43SS
+3.276 - 5.324 MHz
+-----------------------------------------------------------------------
+SUWS Farnham WebSDR, IO91OF. Optimised for reception of Amateur Satellites and High Altitude Balloons. New: 4m & 6m
+http://farnham-sdr.com:8901/
+IO91OF
+49.966 - 52.014 MHz
+69.976 - 72.024 MHz
+143.001 - 145.049 MHz
+144.976 - 147.024 MHz
+431.976 - 434.024 MHz
+433.976 - 436.024 MHz
+435.976 - 438.024 MHz
+10368.000 - 10370.000 MHz
+-----------------------------------------------------------------------
+WebSDR of Ventspils University College, located in territory of Ventspils International Radio Astronomy Center, Latvia
+http://websdr.venta.lv:8901/
+KO07WN
+13.995 - 14.245 MHz
+3.490 - 3.740 MHz
+-----------------------------------------------------------------------
+WEB SDR station by SV8FXN in NAXOS island GREECE
+http://sv8fxn-naxos.ddns.net:8901/
+km27rb
+7.063 - 7.255 MHz
+3.616 - 3.808 MHz
+1.747 - 1.939 MHz
+0.214 - 1.750 MHz
+-----------------------------------------------------------------------
+WebSDR from HAM.Radio.it project of CSP - Softrock Lite II(80m, 192KHz), ETTUS USRP1(80m, 576KHz)
+http://websdr-next.ham.radio.it/
+JN35UA
+3.590 - 3.782 MHz
+-----------------------------------------------------------------------
+UR4RZA
+http://195.34.196.195/
+KO51IM 
+10489.200 - 10490.300 MHz
+2.988 - 4.012 MHz
+6.488 - 7.512 MHz
+13.588 - 14.612 MHz
+20.588 - 21.612 MHz
+-----------------------------------------------------------------------
+RD7T Clubstation WebSDR in Pyatigorsk http://rd7t.qrz.ru/sdr
+http://websdr.imorozov.info:8901/
+LN14ma
+0.526 - 2.574 MHz
+2.838 - 3.862 MHz
+6.588 - 7.612 MHz
+13.608 - 14.632 MHz
+143.991 - 146.039 MHz
+432.991 - 435.039 MHz
+429.991 - 432.039 MHz
+-----------------------------------------------------------------------
+2m band WebSDR Maasbree Netherlands
+http://websdrmaasbree.hamshack.info:8905/
+JO31AI68
+143.732 - 145.268 MHz
+144.732 - 146.268 MHz
+-----------------------------------------------------------------------
+AMDX WebSDR located in a very low noise floor.
+http://AlphaMikeDX.ddns.net/
+JO01FG
+25.976 - 28.024 MHz
+-----------------------------------------------------------------------
+Experimental WEB-SDR Server by SV2YJ in Alexandria GREECE (All sdr dongles are AUZEUNER). Pocket RxTx supported.
+http://sv2yj.ddns.me:8901/
+KN10FO
+143.976 - 146.024 MHz
+429.966 - 432.014 MHz
+26.766 - 28.814 MHz
+14.072 - 14.328 MHz
+6.962 - 7.218 MHz
+3.552 - 3.808 MHz
+1.767 - 2.023 MHz
+5.262 - 5.518 MHz
+-----------------------------------------------------------------------
+Northern Utah WebSDR, Corinne, Utah, U.S.A. - WebSDR #3 (Blue) - Landing Page
+http://websdr3.sdrutah.org:8903/
+DN31to
+3.182 - 4.718 MHz
+6.732 - 8.268 MHz
+11.388 - 12.412 MHz
+14.432 - 15.968 MHz
+143.976 - 146.024 MHz
+145.976 - 148.024 MHz
+-----------------------------------------------------------------------
+WebSDR Guaraguacu - PR - Brazil
+http://sdrguaraguacu.ddns.net:7900/
+GG54ri
+3.088 - 4.112 MHz
+6.788 - 7.812 MHz
+-----------------------------------------------------------------------
+WebSDR in Floirac - Bordeaux (France) covering the 11m band
+http://floirac.websdr.lepacha.eu:8000/
+IN94RT
+26.521 - 28.569 MHz
+-----------------------------------------------------------------------
+RUSSIA Kola Peninsula Murmansk.
+http://websdr.aknot.ru:8901/
+KP68nw
+135.966 - 138.014 MHz
+144.932 - 146.468 MHz
+126.476 - 128.524 MHz
+130.476 - 132.524 MHz
+6.076 - 8.124 MHz
+-----------------------------------------------------------------------
+some RTL dongles with converter
+http://websdr.printf.cc:8901/
+KO04SD
+2.000 - 4.048 MHz
+3.998 - 6.046 MHz
+6.000 - 8.048 MHz
+8.002 - 10.050 MHz
+10.050 - 12.098 MHz
+11.997 - 14.045 MHz
+14.000 - 16.048 MHz
+-----------------------------------------------------------------------
+Tres Arroyos receptor sdr
+http://lu3dj.ddns.net:8080/
+FF91up
+6.488 - 7.512 MHz
+-----------------------------------------------------------------------
+Description RN4WA WebSDR
+http://websdr.rn4wa.ru/
+LO66PU
+1.795 - 1.987 MHz
+3.495 - 3.687 MHz
+6.995 - 7.187 MHz
+10.095 - 10.287 MHz
+13.995 - 14.187 MHz
+20.995 - 21.187 MHz
+27.995 - 28.187 MHz
+-----------------------------------------------------------------------
+WebSDR by LZ7AA based on Redpitaya on the 6 major bands
+http://websdr.info:8901/
+KN12QP
+1.794 - 1.986 MHz
+3.494 - 3.686 MHz
+3.674 - 3.866 MHz
+6.994 - 7.186 MHz
+13.994 - 14.186 MHz
+14.174 - 14.366 MHz
+20.994 - 21.186 MHz
+27.994 - 28.186 MHz
+-----------------------------------------------------------------------
+WebSDR located near Krizevci, Croatia
+http://9a1cra.ddns.net:8902/
+JN86GA
+0.000 - 2.048 MHz
+3.476 - 5.524 MHz
+5.526 - 7.574 MHz
+-----------------------------------------------------------------------
+Multiband WEB-SDR by DK1ML in Frankfurt/Main, Automatic Bandchange every Day: 8 - 17h UTC - 40m/15m and 17 - 8h UTC - 80m/20m
+http://sdr.homeip.net:8901/
+JO40IB
+7.010 - 7.202 MHz
+143.961 - 146.009 MHz
+437.976 - 440.024 MHz
+20.988 - 22.012 MHz
+3.608 - 3.800 MHz
+-----------------------------------------------------------------------
+WebSDR located in Novokuznetsk 2m, 10m, 11m, 20m band
+http://sdr.42dx.ru:8901/
+NO33OS17
+143.976 - 146.024 MHz
+26.976 - 27.744 MHz
+13.916 - 14.684 MHz
+-----------------------------------------------------------------------
+Websdr Receiver Operated by SV2HNH
+http://sv2hnh.no-ip.org:8901/
+KN10LP
+50.242 - 51.778 MHz
+144.464 - 146.000 MHz
+430.186 - 432.234 MHz
+437.786 - 439.834 MHz
+-----------------------------------------------------------------------
+Waller County Radio Club WebSDR (Texas)
+http://74.118.150.5:8901/
+EL19xw
+0.468 - 2.004 MHz
+3.126 - 5.174 MHz
+5.750 - 7.798 MHz
+13.539 - 15.587 MHz
+26.676 - 28.724 MHz
+-----------------------------------------------------------------------
+Central Germany
+http://nkpserver.ddns.net:8073/
+JO51EO
+143.976 - 146.024 MHz
+437.976 - 440.024 MHz
+-----------------------------------------------------------------------
+S.H.B.R.G. WebSDR, co-hosted at PI2SHB, 's-Hertogenbosch, The Netherlands.
+http://sdr.shbrg.nl:8074/
+JO21PR
+143.976 - 146.024 MHz
+429.976 - 432.024 MHz
+432.976 - 435.024 MHz
+1296.630 - 1298.670 MHz
+10368.000 - 10369.000 MHz
+-----------------------------------------------------------------------
+G0XBU WebSDR jodrell SERVER 2, UK
+http://81.174.147.103:8902/
+IO83UF
+143.976 - 146.024 MHz
+429.976 - 432.024 MHz
+431.976 - 434.024 MHz
+445.488 - 446.512 MHz
+49.976 - 52.024 MHz
+-----------------------------------------------------------------------
+WebSDR by UW5EGA in Kryvyi Rih Ukraine
+http://radiodx.online/
+KN68QB
+143.876 - 145.924 MHz
+-----------------------------------------------------------------------
+WebSDR receiver in Saint-Petersburg, Russia.
+http://websdr.78dx.ru:8901/
+KO59CS
+143.976 - 146.024 MHz
+2.976 - 5.024 MHz
+6.588 - 7.612 MHz
+12.476 - 14.524 MHz
+26.776 - 28.824 MHz
+-----------------------------------------------------------------------
+WebSDR in Barnaul city, Altai region, Russia
+http://46.241.39.39:8901/
+NO13TH
+2.976 - 5.024 MHz
+5.676 - 7.724 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+Phoenix, Arizona WebSDR (url:W7RNA.com)
+http://72.208.126.4:8901/
+DM33wl
+3.502 - 5.550 MHz
+5.737 - 7.785 MHz
+9.178 - 10.202 MHz
+11.078 - 12.102 MHz
+-----------------------------------------------------------------------
+WebSDR on UW5EHX in Nikopol, Ukraine
+http://62.64.80.171:5557/
+KN77FR
+0.127 - 0.223 MHz
+7.004 - 7.196 MHz
+1.545 - 2.057 MHz
+2.843 - 3.355 MHz
+3.365 - 3.877 MHz
+-----------------------------------------------------------------------
+DB0TVM Olympic Tower Munich
+http://db0tvm-i.ampr.org:8901/
+JN58SE
+143.976 - 146.024 MHz
+437.952 - 440.000 MHz
+-----------------------------------------------------------------------
+SWL.su WebSDR with RSP1A
+http://websdr.swl.su:8901/
+KO85ou
+0.476 - 2.524 MHz
+2.476 - 4.524 MHz
+6.972 - 7.228 MHz
+13.844 - 14.356 MHz
+-----------------------------------------------------------------------
+SWL.su WebSDR with RSP1A
+http://websdr.swl.su:8902/
+KO85qw
+2.988 - 4.012 MHz
+6.972 - 7.228 MHz
+-----------------------------------------------------------------------
+WebSDR from ham.Radio.it project of CSP - Softrock Ensemble RX II
+http://websdr.ham.radio.it/
+JN35UC
+7.000 - 7.192 MHz
+-----------------------------------------------------------------------
+YEREVAN
+http://wsdr.frra.am/
+LN20FE
+1.801 - 3.849 MHz
+5.176 - 7.224 MHz
+9.032 - 11.080 MHz
+12.351 - 14.399 MHz
+26.700 - 28.748 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+Airband station
+http://sdr.hkfree.org:8901/
+JO70WE
+117.876 - 119.924 MHz
+119.976 - 122.024 MHz
+122.226 - 124.274 MHz
+124.326 - 126.374 MHz
+130.126 - 132.174 MHz
+134.176 - 136.224 MHz
+-----------------------------------------------------------------------
+NA5B WebSDR in Washington DC area USA. VHF-UHF; 6m, Air Band, 2m and 70cm
+http://websdr.us:8902/
+FM18KS
+50.000 - 52.048 MHz
+118.976 - 121.024 MHz
+145.426 - 147.474 MHz
+160.876 - 162.924 MHz
+0.000 - 0.024 MHz
+-----------------------------------------------------------------------
+Receptor SDR em Campinas, SP - Brasil
+http://campinas.websdr.com.br:8901/
+GG67LE
+1.494 - 2.006 MHz
+3.494 - 4.006 MHz
+4.988 - 6.012 MHz
+6.894 - 7.406 MHz
+13.738 - 14.762 MHz
+26.988 - 28.012 MHz
+-----------------------------------------------------------------------
+LU8FCJ Raspberry PI SDR receiver - Villa Canas zona rural
+http://el22.dyndns-blog.com:8080/
+FF95ev
+6.972 - 7.228 MHz
+-----------------------------------------------------------------------
+CE5RMC - 40 mts - Chiguayante, Chile
+http://sdr.ce5rmc.cl:8091/
+FF33lb
+6.588 - 7.612 MHz
+-----------------------------------------------------------------------
+Wuesti's websdr in Nuernberg/ Frankonia/ Bavaria/ Germanny
+http://websdr-jn59nk.ddnss.org:8080/
+jn59nk
+26.532 - 28.068 MHz
+27.976 - 30.024 MHz
+5.876 - 7.924 MHz
+437.476 - 439.524 MHz
+-----------------------------------------------------------------------
+Receptor SDR de Sorocaba, SP - BR
+http://sorocaba.websdr.com.br:8901/
+GG66fl
+0.988 - 2.012 MHz
+3.494 - 4.006 MHz
+6.894 - 7.406 MHz
+26.988 - 28.012 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+WEB SDR Banda OM, Montevideo Uruguay
+http://201.217.131.106:7900/
+GF15WC
+0.076 - 2.124 MHz
+-----------------------------------------------------------------------
+2 Meter WebSDR Located in south Hartfrodshire UK using a RTL Dongle
+http://sdr.codedv.com:8092/
+IO91TP
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+WebSDR 80m band
+http://websdr80.dyndns.org:50001/
+JO91UM
+3.213 - 4.237 MHz
+-----------------------------------------------------------------------
+M0KWR SDR at Stibbington Optimised for 160 & 80 meters running a Soft Rock SDR & SDRPlay RSP1.
+http://sdr-m0kwr.ddns.net/
+io92tn
+1.804 - 1.996 MHz
+3.444 - 3.956 MHz
+-----------------------------------------------------------------------
+Receptor SDR em Louveira, SP - Brasil
+http://louveira.websdr.com.br/
+GG66mv
+26.988 - 28.012 MHz
+-----------------------------------------------------------------------
+WebSDR RTL-SDR OH7FES HF and DMR Digital Voice Lieksa Finland. All Band System.
+http://oh7fes.ddns.net:8901/
+KP53BH
+3.677 - 3.721 MHz
+-----------------------------------------------------------------------
+Barney's Websdr #1 LF/MF/80m & 40m Bedford England
+http://remoteradio.myddns.me:8073/
+IO92SC
+0.001 - 2.049 MHz
+3.500 - 5.548 MHz
+5.672 - 7.720 MHz
+-----------------------------------------------------------------------
+This is SV2RQ's SDR station in Chalkidiki, north GREECE
+http://sv2rq.no-ip.org:8921/
+KN10UI
+14.053 - 14.245 MHz
+7.029 - 7.221 MHz
+3.616 - 3.808 MHz
+1.795 - 1.891 MHz
+-----------------------------------------------------------------------
+Gerbrandy Tower, IJsselstein, NL
+http://websdr.pi1utr.ampr.org:8901/
+JO22MA
+430.000 - 432.048 MHz
+432.000 - 434.048 MHz
+1295.990 - 1297.010 MHz
+2319.990 - 2321.010 MHz
+5759.990 - 5761.010 MHz
+24048.000 - 24049.000 MHz
+-----------------------------------------------------------------------
+WebSDR HS/F8UKP in Bangko
+http://9v1rm.dyndns.org:8901/
+OK03GR
+1.795 - 1.987 MHz
+3.695 - 3.887 MHz
+6.995 - 7.187 MHz
+10.089 - 10.281 MHz
+13.995 - 14.187 MHz
+18.048 - 18.240 MHz
+20.995 - 21.187 MHz
+24.870 - 25.062 MHz
+-----------------------------------------------------------------------
+SDR station by SV3YY in RIO GREECE.
+http://sv3yy0.ddns.net:8903/
+km08vh
+10489.200 - 10490.200 MHz
+7.014 - 7.206 MHz
+0.908 - 1.932 MHz
+-----------------------------------------------------------------------
+QO-100 (Es'Hail-2) Ham NB Transponder sdr in Novovoronezh (op.R3KEE)
+http://websdr.vrn.ru:8902/
+KO91oh
+10489.200 - 10490.300 MHz
+-----------------------------------------------------------------------
+kf7rcs RTL-SDR V3 direct sampling
+http://44.62.11.162:8901/
+DM41kw
+13.710 - 14.734 MHz
+6.663 - 7.687 MHz
+-----------------------------------------------------------------------
+WEB SDR in Santa Clarita, CA 45 Miles North of Los Angeles
+http://kj6eo.com:8901/
+DM04RL
+0.000 - 2.048 MHz
+3.476 - 5.524 MHz
+5.700 - 7.748 MHz
+13.500 - 15.548 MHz
+20.775 - 22.823 MHz
+26.800 - 28.848 MHz
+-----------------------------------------------------------------------
+WebSDR Afedri Irkutsk, East Siberia
+http://195.93.149.87:8901/
+OO22CE
+14.004 - 14.196 MHz
+-----------------------------------------------------------------------
+LW7DST Tortuguitas Buenos Aires ARGENTINA
+http://lw7dst.ddns.net/
+GF05OM
+6.738 - 7.762 MHz
+143.760 - 146.640 MHz
+432.560 - 435.440 MHz
+-----------------------------------------------------------------------
+4 Meter WebSDR Located in south Hartfrodshire UK using a RTL Dongle
+http://sdr.codedv.com:8091/
+IO91TP
+69.748 - 70.772 MHz
+69.688 - 70.712 MHz
+-----------------------------------------------------------------------
+WebSDR ÑÅÑÇÑyÑvÑ}Ñ~ÑyÑ{ 2M
+http://176.118.197.49/
+NO26XB
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+2m Stockholm, Sweden, SM0TCZ 2m web reciever. Might be inactive without prio notice due to wx or op cond.
+http://sm0.mine.nu:8901/
+JO89XF
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+Hilversum, NL
+http://websdr.pi1nos.ampr.org:8901/
+JO22NF
+143.976 - 146.024 MHz
+27.976 - 30.024 MHz
+-----------------------------------------------------------------------
+AMSAT-UK VHF Goonhilly WebSDR
+http://vhf-goonhilly.batc.org.uk:8902/
+IO70JB
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+WEBSDR Krems an der Donau
+http://sdr.packetradio.at:8901/
+JN78SK
+143.976 - 146.024 MHz
+429.976 - 432.024 MHz
+431.976 - 434.024 MHz
+433.976 - 436.024 MHz
+435.976 - 438.024 MHz
+437.976 - 440.024 MHz
+444.976 - 447.024 MHz
+10489.200 - 10490.300 MHz
+-----------------------------------------------------------------------
+WebSDR Santos-SP - Brazil
+http://santos.websdr.com.br:8901/
+GG66UA
+6.894 - 7.406 MHz
+27.126 - 29.174 MHz
+-----------------------------------------------------------------------
+CE3WAQ - 40 mts - MW - Santiago, Chile
+http://ce3waq.duckdns.org:8091/
+FF46qn
+6.588 - 7.612 MHz
+-----------------------------------------------------------------------
+WEB-SDR en Madrid - Spain REM-ESP
+http://rem-esp.spdns.org:8901/
+IN80DK
+144.738 - 145.762 MHz
+6.488 - 7.512 MHz
+4.788 - 5.812 MHz
+3.263 - 4.287 MHz
+-----------------------------------------------------------------------
+WebSDR located in 9a7aof home (Croatia)
+http://9a7aof.ddns.net:8902/
+JN86DA
+26.962 - 28.498 MHz
+143.986 - 146.034 MHz
+-----------------------------------------------------------------------
+Remote DX-Station at 1'660m Rigi Scheidegg operated by HB9RYZ & HB9CQK
+http://rigi.dyndns-remote.com:8092/
+JN47GA
+143.876 - 145.924 MHz
+431.876 - 433.924 MHz
+-----------------------------------------------------------------------
+Airspy HF+ by SV3YY in RIO GREECE (with band operation)
+http://sv3yy1.no-ip.org:8905/
+KM08qe
+3.286 - 4.054 MHz
+-----------------------------------------------------------------------
+40m, WebSDR of ZP9CTS, Paraguay
+http://websdr.com.py/
+GG22ER
+6.844 - 7.356 MHz
+-----------------------------------------------------------------------
+N4HCI - RTL-SDR V3 Newport News VA
+http://98.166.65.119:8901/
+FM17sb
+2.726 - 4.774 MHz
+5.726 - 7.774 MHz
+7.221 - 7.269 MHz
+13.151 - 15.199 MHz
+-----------------------------------------------------------------------
+F8KCF Radio Club Annemasse France
+http://sdr.f8kcf.net:8901/
+JN36CE
+143.976 - 146.024 MHz
+437.976 - 440.024 MHz
+-----------------------------------------------------------------------
+This Station has 1M Dish with LNB with RTL_SDR (Es'hail 2 satellite) QO-100 Eshail-2
+http://zr6aic.giga.co.za:8902/
+KG43AR
+143.976 - 146.024 MHz
+434.976 - 437.024 MHz
+436.376 - 438.424 MHz
+-----------------------------------------------------------------------
+Barney's Websdr #2 10/11 metre bands Bedford England
+http://remoteradio.myddns.me:8087/
+IO92SD
+25.962 - 28.010 MHz
+27.782 - 29.830 MHz
+144.002 - 146.050 MHz
+-----------------------------------------------------------------------
+PY4CAP - Grupo de Radiocomunicacao da UFSJ
+http://websdr.ufsj.edu.br:8080/
+GG89dl04
+143.976 - 146.024 MHz
+5.780 - 7.828 MHz
+-----------------------------------------------------------------------
+WebSDR by LZ7AA based on NooElec nano on upper UHF bands
+http://websdr.info:8902/
+KN12RR
+26.801 - 27.569 MHz
+143.976 - 146.024 MHz
+437.976 - 440.024 MHz
+-----------------------------------------------------------------------
+GVARC-WI RTL-SDR V3 direct sampling
+http://44.127.32.234:8901/
+EN53gc
+13.710 - 14.734 MHz
+-----------------------------------------------------------------------
+VLF receiver and SAQrx
+http://vlf.firewall-gateway.net:8901/
+JO41bi
+0.000 - 0.048 MHz
+-----------------------------------------------------------------------
+WebSDR, Russia, Tyumen (West Siberia Plain).
+http://websdr.electrosystem.ru:8081/
+MO27RD
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+MiB websdr server in Novovoronezh
+http://websdr.vrn.ru:8901/
+KO91oh
+136.476 - 138.524 MHz
+143.976 - 146.024 MHz
+433.746 - 435.794 MHz
+436.076 - 438.124 MHz
+-----------------------------------------------------------------------
+La Serena, Chile
+http://5581048bb859.sn.mynetname.net:8091/
+FG40jb
+6.588 - 7.612 MHz
+-----------------------------------------------------------------------
+Tres Arroyos receptor sdr
+http://lu3dj.ddns.net:8081/
+FF91xd
+13.488 - 14.512 MHz
+-----------------------------------------------------------------------
+WEBSDR @ N8MDP in Cleveland, Ohio USA
+http://n8mdp.ham-radio-op.net:8904/
+EN91JJ
+2.988 - 4.012 MHz
+6.888 - 7.912 MHz
+-----------------------------------------------------------------------
+ECUADOR HF WebSDR HC1AX - Raspbian Proyect HP3ICC
+http://186.4.161.166:8091/
+FI09rs
+6.588 - 7.612 MHz
+-----------------------------------------------------------------------
+Description yet to be filled in
+http://194.58.188.133:8010/
+LO07pi
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+Spanish Paella Team-mW Group (by EA5CV & EA5DOM)
+http://maxiplaya.dyndns.org:8901/
+im98tj
+10368.900 - 10369.000 MHz
+-----------------------------------------------------------------------
+Receptor SDR no Japi - Cabreuva, SP - Brasil
+http://japi.websdr.com.br:8901/
+GG66MS
+26.988 - 28.012 MHz
+462.476 - 464.524 MHz
+-----------------------------------------------------------------------
+RTLSDR on Raspberry Pi EM12ho W2DB
+http://sdr.ddns.net:8901/
+EM12ho
+3.328 - 4.352 MHz
+926.988 - 928.012 MHz
+-----------------------------------------------------------------------
+RadioClub F4KJI @ Strasbourg France
+http://vushf.f4kji.fr:8902/
+JN38un
+10489.200 - 10490.200 MHz
+-----------------------------------------------------------------------
+NEW ORLEANS WEBSDR KB5AVY (70C,2M,40M,80M)
+http://kb5avy.hopto.org:8903/
+EM40WA
+3.854 - 4.046 MHz
+443.938 - 444.962 MHz
+146.488 - 147.512 MHz
+-----------------------------------------------------------------------
+WebSDR-DK4KM in Hattorf / Germany
+http://dk4km.dyndns.org:8901/
+JO52II
+13.653 - 14.677 MHz
+143.976 - 146.024 MHz
+6.578 - 7.602 MHz
+3.178 - 4.202 MHz
+-----------------------------------------------------------------------
+IS0GRB VHF 144-146 MHz WebSDR in south Sardinia, Italy (SSB DX, Local FM, Satellite traffic)
+http://websdr.is0grb.it:8902/
+JM49OJ
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+2M band WebSDR in Russia, Ufa
+http://r9wl.hldns.ru/
+LO84BS
+144.988 - 146.012 MHz
+-----------------------------------------------------------------------
+WebSDR at RA4PTJ from Almetyevsk, Russia
+http://ra4ptj.ru/
+LO64DV
+3.128 - 4.152 MHz
+6.069 - 8.117 MHz
+13.076 - 15.124 MHz
+432.976 - 435.024 MHz
+-----------------------------------------------------------------------
+RSP1A on six Meters from the Quiet Corner of CT
+http://SIXMETERSCT.DDNS.NET:20553/
+FN31vu
+49.994 - 50.506 MHz
+-----------------------------------------------------------------------
+DB0HZS Herzogstand (1601m ASL)
+http://db0hzs-i.ampr.org:8901/
+JN57po
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+LU3HBS + LU6FLZ + LU1HCM --Alta Gracia WebSdr - Cordoba - Argentina
+http://200.69.231.209:5555/
+FF78si
+6.488 - 7.512 MHz
+-----------------------------------------------------------------------
+RadioClub F4KJI @ Strasbourg France
+http://www.f4kji.fr:8901/
+JN38un
+0.113 - 0.497 MHz
+0.450 - 0.498 MHz
+0.112 - 0.160 MHz
+1.645 - 2.029 MHz
+3.377 - 3.761 MHz
+5.165 - 5.549 MHz
+49.998 - 50.382 MHz
+50.358 - 50.742 MHz
+-----------------------------------------------------------------------
+RTL-SDR Dongle and vertical dipole on Budapest
+http://pet.no-ip.biz:5050/
+JN97MM
+144.026 - 146.074 MHz
+-----------------------------------------------------------------------
+4m/6m WEB-SDR by Mike DK1ML in Frankfurt/Main
+http://websdr.homeip.net:8902/
+JO40IB
+49.988 - 51.012 MHz
+70.019 - 70.211 MHz
+-----------------------------------------------------------------------
+For monitoring maritime activity in the Tampa Bay/Gulf of Mexico area. Running on Raspberry Pi 3!
+http://websdr.agnewsound.com:8901/
+EL87qs
+156.238 - 157.262 MHz
+-----------------------------------------------------------------------
+Description yet to be filled in
+http://178.44.140.130:3784/
+LO71ns
+27.027 - 28.051 MHz
+6.988 - 8.012 MHz
+-----------------------------------------------------------------------
+http://sites.google.com/view/grimsbyradio/home
+http://81.86.193.1/
+IO93XM
+26.976 - 29.024 MHz
+49.226 - 51.274 MHz
+739.163 - 740.187 MHz
+143.976 - 146.024 MHz
+-----------------------------------------------------------------------
+WebSDR on HB9AZT RadioHill
+http://bachtel.dyndns-remote.com/
+JN46GM
+3.484 - 3.676 MHz
+3.654 - 3.846 MHz
+5.254 - 5.446 MHz
+-----------------------------------------------------------------------
+WebSDR hosted by BM2GIY in Taipei, Taiwan
+http://miaoski.idv.tw:8901/
+PL05SA
+143.732 - 145.268 MHz
+432.232 - 433.768 MHz
+-----------------------------------------------------------------------
+R4N's team WEBSDR from Kirov
+http://89.207.73.182:8901/
+LO48TO
+7.004 - 7.196 MHz
+12.376 - 14.424 MHz
+-----------------------------------------------------------------------
+RASPBERRY+SoftRock 6.1 : Sysop F5CES
+http://82.65.125.211:8901/
+jn18gi
+7.004 - 7.196 MHz
+-----------------------------------------------------------------------
+HB9DD, Monte Tamaro, Switzerland, 10GHz Receiver
+http://sdr.hb9dd.ch:8901/
+JN46kc
+10368.000 - 10369.000 MHz
+-----------------------------------------------------------------------
+SDR Vale dos Sinos - Raspberry - Ivan Ribas, Sapiranga RS
+http://ivanribas.com.br:8901/
+GG40LI
+26.863 - 27.887 MHz
+-----------------------------------------------------------------------
+WebSDR in Cagliari Sardinia Island (Italy)!
+http://cagliarisdr.myddns.me:8901/
+JM49NF
+13.562 - 14.586 MHz
+6.588 - 7.612 MHz
+-----------------------------------------------------------------------
+10GHz WebSDR in Eindhoven, NL.
+http://websdr.pi2ehv.ampr.org:8901/
+JO21QK
+10368.800 - 10369.000 MHz
+10368.000 - 10368.200 MHz
+-----------------------------------------------------------------------
+Located in the center of Honolulu, Hawaii!
+http://heatherf.duckdns.org:8902/
+BL11bh
+145.000 - 147.880 MHz
+-----------------------------------------------------------------------
+WebSDR based on Redpitaya
+http://92.242.23.182:8901/
+KN12PQ
+1.794 - 1.986 MHz
+3.494 - 3.686 MHz
+3.674 - 3.866 MHz
+7.042 - 7.138 MHz
+13.994 - 14.186 MHz
+14.174 - 14.366 MHz
+20.994 - 21.186 MHz
+27.994 - 28.186 MHz
+-----------------------------------------------------------------------
+FunCube Pro+ installed in Radio Club La Salle, tuned to the frequency 143.050MHz radar GRAVES for use as a detector of meteors.
+http://websdr.housing.salleurl.edu:8901/
+JN11BJ
+142.934 - 143.126 MHz
+-----------------------------------------------------------------------
+2M, 70cm 23cm WEBSDR in Cleethorpes, North East Lincolnshire. 4 x RTL Dongles,X300 dual band antenna and an 23cm Alford Slot
+http://radiogeek.co.uk:81/
+IO93XN
+143.976 - 146.024 MHz
+431.976 - 434.024 MHz
+433.976 - 436.024 MHz
+1295.980 - 1298.020 MHz
+-----------------------------------------------------------------------
+2.3 GHz websdr @ 60m agl
+http://websdr.pi6ehv.ampr.org:8901/
+JO21RL
+2319.990 - 2321.010 MHz
+-----------------------------------------------------------------------
+Vesuvio WebSDR Station, QTH Napoli-Italy
+http://websdr.ns0.it:8901/
+JN70FU
+6.468 - 7.492 MHz
+26.951 - 28.999 MHz
+49.976 - 52.024 MHz
+143.976 - 146.024 MHz
+429.976 - 432.024 MHz
+431.976 - 434.024 MHz
+435.976 - 438.024 MHz
+-----------------------------------------------------------------------
+WebSDR located in Novokuznetsk 80-160m band
+http://sdr.42dx.ru:86/
+NO33NN
+1.776 - 3.824 MHz
+-----------------------------------------------------------------------
+CX1AAO Websdr Playa Hermosa,Maldonado, Uruguay
+http://179.30.156.168:8901/
+GF25ID
+6.572 - 7.596 MHz
+-----------------------------------------------------------------------
